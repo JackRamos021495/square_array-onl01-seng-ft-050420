@@ -4,5 +4,5 @@ def square_array(array)
   end
   array_squared = array[elements*elements]
   return array_squared
-  
+
 end

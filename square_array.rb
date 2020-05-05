@@ -2,5 +2,7 @@ def square_array(array)
   # your code here
   array.each do |elements|
   end
-  return array
+  array_squared = array[elements*elements]
+  return array_squared
+  
 end

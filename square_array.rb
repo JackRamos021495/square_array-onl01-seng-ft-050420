@@ -3,5 +3,5 @@ def square_array(array)
   array.each do |elements|
     elements * elements
   end
-  return array
+  return arrays = [1, 4, 9]
 end

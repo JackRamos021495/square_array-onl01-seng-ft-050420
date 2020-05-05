@@ -3,4 +3,5 @@ def square_array(array)
   array.each do |elements|
 
   end
+  return array^2
 end

@@ -3,4 +3,5 @@ def square_array(array)
   array.each do |elements|
     return elements = "#{elements*elements}"
   end
+  return array == array*array
 end
